@@ -1,4 +1,4 @@
-# GRLGS
+# CARE
 
 
 
@@ -7,15 +7,15 @@
 Please make sure your environment includes:
 
 ```python
-python (tested on 3.7.4)
-pytorch (tested on 1.2.1)
+python (tested on 3.7)
+pytorch (tested on 1.8.0)
 ```
 
 
 
 ## Run
 
-Run AGE on Cora dataset:
+Run CARE on Cora dataset:
 
 ```python
 python main.py
